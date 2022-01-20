@@ -1,0 +1,16 @@
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\bin\Debug\net5.0\baigiang.exe
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\bin\Debug\net5.0\baigiang.deps.json
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\bin\Debug\net5.0\baigiang.runtimeconfig.json
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\bin\Debug\net5.0\baigiang.runtimeconfig.dev.json
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\bin\Debug\net5.0\baigiang.dll
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\bin\Debug\net5.0\ref\baigiang.dll
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\bin\Debug\net5.0\baigiang.pdb
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\obj\Debug\net5.0\baigiang.csprojAssemblyReference.cache
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\obj\Debug\net5.0\baigiang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\obj\Debug\net5.0\baigiang.AssemblyInfoInputs.cache
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\obj\Debug\net5.0\baigiang.AssemblyInfo.cs
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\obj\Debug\net5.0\baigiang.csproj.CoreCompileInputs.cache
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\obj\Debug\net5.0\baigiang.dll
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\obj\Debug\net5.0\ref\baigiang.dll
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\obj\Debug\net5.0\baigiang.pdb
+C:\Users\TranThaoVan\source\repos\slide 5\baigiang\obj\Debug\net5.0\baigiang.genruntimeconfig.cache
